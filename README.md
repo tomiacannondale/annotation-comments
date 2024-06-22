@@ -7,7 +7,7 @@ This package searches annotation-comments inside project.
 Clone this project from git and load package.
 
 ```
-git clone <url>
+git clone https://github.com/tomiacannondale/annotation-comments.git
 ```
 
 ```elisp
